@@ -13,7 +13,8 @@ The project includes Python programs applying a chemical mechanism to explain os
 - **Time_evolution_of_theta.py**  
   Plots surface coverage as a function of time.
 
-- **Iskanje I za h.py**Determines the interaction strength (I) as a function of the coupling parameter (h) for the coupled bistable AgNP system.
+- **Iskanje I za h.py**
+  Determines the interaction strength (I) as a function of the coupling parameter (h) for the coupled bistable AgNP system.
 
 - **iskanje I.py**
   Identifies suitable values of the interaction strength (I) that satisfy the required conditions for the coupled bistable AgNP system.
